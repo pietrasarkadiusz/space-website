@@ -6,9 +6,4 @@ import { fileURLToPath, URL } from 'url';
 export default defineConfig({
   base: '/space-website/',
   plugins: [vue()],
-  resolve: {
-    alias: {
-      '@': fileURLToPath(new URL('./src', import.meta.url)),
-    },
-  },
 });
