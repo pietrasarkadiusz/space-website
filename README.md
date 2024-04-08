@@ -25,12 +25,9 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solu)
-- Live Site URL: [Add live site URL here](https://your-live-site-)
+- Live Site URL: [Space website](https://pietrasarkadiusz.github.io/space-website/)
 
 ## My process
 
